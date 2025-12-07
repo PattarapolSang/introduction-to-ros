@@ -17,5 +17,5 @@
         "--rm",
         "-it"
     ],
-    "remoteUser": "root"
+    "remoteUser": "abc"
 }
